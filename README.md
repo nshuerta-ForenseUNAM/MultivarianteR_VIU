@@ -1,6 +1,6 @@
 # Procesamiento multivariante de datos en R
 
-####  N. Sofia Huerta-Pacheco <sup>1, 2, 3</sup>
+####  N. Sofía Huerta-Pacheco <sup>1, 2, 3</sup>
 ###### <sup>1</sup> Escuela Nacional de Ciencias Forenses, México
 ###### <sup>2</sup> CONAHCYT, México
 ###### <sup>3</sup> Universidad Internacional de Valencia, España
